@@ -1,0 +1,14 @@
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\bin\Debug\netcoreapp2.1\LooneyTunes.deps.json
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\bin\Debug\netcoreapp2.1\LooneyTunes.runtimeconfig.json
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\bin\Debug\netcoreapp2.1\LooneyTunes.runtimeconfig.dev.json
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\bin\Debug\netcoreapp2.1\LooneyTunes.dll
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.csprojAssemblyReference.cache
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.csproj.CoreCompileInputs.cache
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.RazorAssemblyInfo.cache
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.RazorAssemblyInfo.cs
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.AssemblyInfoInputs.cache
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.AssemblyInfo.cs
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.RazorTargetAssemblyInfo.cache
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\bin\Debug\netcoreapp2.1\LooneyTunes.pdb
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.dll
+C:\Users\fozturk\source\repos\LooneyTunes\LooneyTunes\obj\Debug\netcoreapp2.1\LooneyTunes.pdb
