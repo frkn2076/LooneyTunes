@@ -10,7 +10,7 @@
 
 ## How to use
 
-Simply get Looney Tunes Characters' information through queries in GraphQL, ere are a few examples
+Simply get Looney Tunes Characters' information through queries in GraphQL, here are a few examples
 
 ```javascript
 {
