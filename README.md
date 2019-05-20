@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.hizliresim.com/mMVZy2.png">
+  <img src="https://github.com/frkn2076/LooneyTunes/blob/master/Art/Bugs_Bunny.png">
 </p>
 
 <h1 align="center">GraphQL Looney Tunes</h1>
