@@ -5,7 +5,7 @@
 
 <h1 align="center">GraphQL Looney Tunes</h1>
 <p align="center">
-  Get information of Looney Tunes Characters' with GraphQL!<br />
+  Get information of Looney Tunes Characters with GraphQL!<br />
 </p>
 
 ## How to use
