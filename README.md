@@ -45,8 +45,3 @@ Simply get Looney Tunes Characters' information through queries in GraphQL, here
 }
 
 ```
-## Shared Endpoint
-
-```javascript
-https://cartoonworlds.azurewebsites.net/graphql/
-```
